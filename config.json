@@ -1,0 +1,9 @@
+{
+  "language": "",
+  "main": "./contracts/ChristmasTreeBNB.sol",
+  "deploy": "./build/contracts/ChristmasTreeBNB.json",
+  "compilers": {
+    "truffle": "",
+    "solc": "0.8.6"
+  }
+}
